@@ -9,7 +9,7 @@
 
 # Introduction to GitHub
 
-## ***README edit for kills-introduction-to-github***
+## ***README edit for skills-introduction-to-github***
 
 _Get started using GitHub in less than an hour._
 
